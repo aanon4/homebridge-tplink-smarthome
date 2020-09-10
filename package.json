@@ -44,7 +44,7 @@
   "dependencies": {
     "lodash.castarray": "^4.4.0",
     "semver": "^7.3.2",
-    "tplink-smarthome-api": "~2.0.0"
+    "tplink-smarthome-api": "git+https://github.com/plasticrake/tplink-smarthome-api.git"
   },
   "devDependencies": {
     "@types/mocha": "^7.0.2",
